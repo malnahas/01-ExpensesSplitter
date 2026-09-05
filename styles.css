@@ -8,8 +8,8 @@ body{
     place-items: center;
     padding: 24;
     font-family: system-ui, sans-serif;
-    background: #eef2ff;
-    color: #1f2937;
+    background: #9499a8;
+    color: #2a3038;
 
 }
 
@@ -29,7 +29,7 @@ body{
 
 .card {
     width: min(600 px, 100%);
-    background: #fff;
+    background: #6b6464;
     padding: 18px;
     border-radius: 16px;
     box-shadow: 0 10px 24px rgba(79, 70, 229, .2);
@@ -43,15 +43,15 @@ input, select{
     flex: 1;
     padding: 10px;
     border-radius: 10px;
-    border: 1px solid #c7d2fe;
+    border: 1px solid #686970;
 }
 
 button {
     padding: 10px 14px;
     border-radius: 10px;
     border none;
-    background: #4f46e5;
-    color: #fff;
+    background: #3f3d64;
+    color: #695c5c;
     cursor: pointer;
 
 }
@@ -62,7 +62,7 @@ section{
 section h3 {
     margin: 0 0 6px;
     font-size: 14px;
-    color: #4f46e5;
+    color: #2d2b52;
 }
 
 .list{
@@ -76,10 +76,10 @@ section h3 {
 .list li{
     padding: 10px;
     border-radius: 10px;
-    background: #f1f5ff;
+    background: #4a4d55;
    
 }
 .summary li{
-    background: #dcfce7;
-    color: #166534;
+    background: #1c2921;
+    color: #a7cab4;
 }
